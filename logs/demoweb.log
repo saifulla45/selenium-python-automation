@@ -1,0 +1,15 @@
+2025-05-03 11:34:20:INFO:****** Start Execution of test_title_verification Test Method ********
+2025-05-03 11:34:25:INFO:Entered the URL
+2025-05-03 11:34:29:INFO:Got the Title of the Text
+2025-05-03 11:34:29:INFO:assertion for title passed
+2025-05-03 11:34:30:INFO:****** Start Execution of test_valid_login Test Method ********
+2025-05-03 11:34:37:INFO:Clicked on Login Link
+2025-05-03 11:34:40:INFO:Entered Email Address
+2025-05-03 11:34:40:INFO:Entered Password Address
+2025-05-03 11:34:42:INFO:Clicked on Login Button
+2025-05-03 11:34:44:INFO:Assertion for the email text Match is passed
+2025-05-03 11:34:52:INFO:Clicking on Login Link
+2025-05-03 11:34:56:INFO:Entering Email Address
+2025-05-03 11:34:57:INFO:Entering password Address
+2025-05-03 11:34:57:INFO:Going to click on Login Button
+2025-05-03 11:35:00:INFO:ASSERTION PASSED
